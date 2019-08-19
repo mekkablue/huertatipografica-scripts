@@ -1,5 +1,5 @@
 #MenuTitle: Check different anchors in masters
-__doc__="""
+__doc__="""Go through all relevant layers (including special layers: brace, bracket, smart layers)
 Check if the anchors are different in masters
 """
 font=Glyphs.font
